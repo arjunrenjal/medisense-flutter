@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="10.537" viewBox="0 0 16 10.537">
+  <g id="Group_1738" data-name="Group 1738" transform="translate(-15.926 -115)">
+    <path id="Icon_material-videocam" data-name="Icon material-videocam" d="M16.944,12.951V9.878A.886.886,0,0,0,16.056,9H5.389a.886.886,0,0,0-.889.878v8.78a.886.886,0,0,0,.889.878H16.056a.886.886,0,0,0,.889-.878V15.585L20.5,19.1V9.439Z" transform="translate(11.426 106)" fill="#e11e1e"/>
+    <path id="Icon_material-close" data-name="Icon material-close" d="M12.419,8l-.5-.5L9.959,9.464,8,7.5,7.5,8,9.464,9.959,7.5,11.923l.5.5,1.964-1.964,1.964,1.964.5-.5L10.455,9.959Z" transform="translate(12.439 110.541)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89" height="16" viewBox="0 0 89 16">
+  <g id="Group_2019" data-name="Group 2019" transform="translate(-0.072)">
+    <rect id="Rectangle_3993" data-name="Rectangle 3993" width="89" height="16" rx="4" transform="translate(0.072)" fill="#fff"/>
+    <g id="Group_1028" data-name="Group 1028" transform="translate(4.17 1.709)">
+      <text id="Instant_Video_call" data-name="Instant Video call" transform="translate(9.902 9.291)" fill="#9a40ff" font-size="8" font-family="Poppins-Regular, Poppins" letter-spacing="0em"><tspan x="0" y="0">Instant Video call</tspan></text>
+      <path id="Icon_weather-lightning" data-name="Icon weather-lightning" d="M9.552,19.408h.225l3.971-5.918q.078-.157-.087-.157H12.022l1.726-3.168c.052-.1.012-.157-.115-.157h-2.2a.209.209,0,0,0-.167.1l-1.6,4.3c-.012.1.023.157.11.157h1.587Z" transform="translate(-9.552 -7.717)" fill="#9a40ff"/>
+    </g>
+  </g>
+</svg>

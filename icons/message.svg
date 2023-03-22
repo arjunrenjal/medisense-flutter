@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="130" viewBox="0 0 130 130">
+  <defs>
+    <filter id="Ellipse_222" x="0" y="0" width="130" height="130" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1165" data-name="Group 1165" transform="translate(45.316 42)">
+    <g id="Group_1051" data-name="Group 1051" transform="translate(0)">
+      <g transform="matrix(1, 0, 0, 1, -45.32, -42)" filter="url(#Ellipse_222)">
+        <circle id="Ellipse_222-2" data-name="Ellipse 222" cx="20" cy="20" r="20" transform="translate(45 42)" fill="#dfedff"/>
+      </g>
+      <path id="Icon_material-message" data-name="Icon material-message" d="M16.69,3H4.521A1.529,1.529,0,0,0,3.008,4.54L3,18.4l3.042-3.079H16.69a1.535,1.535,0,0,0,1.521-1.54V4.54A1.535,1.535,0,0,0,16.69,3Zm-1.521,9.238H6.042V10.7h9.127Zm0-2.309H6.042V8.389h9.127Zm0-2.309H6.042V6.079h9.127Z" transform="translate(9.079 9.302)" fill="#0063f8"/>
+    </g>
+    <rect id="Rectangle_3998" data-name="Rectangle 3998" width="10" height="10" rx="3" transform="translate(29.684)" fill="red"/>
+  </g>
+</svg>
